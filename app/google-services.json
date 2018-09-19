@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "878940273634",
+    "firebase_url": "https://technofarm-823b8.firebaseio.com",
+    "project_id": "technofarm-823b8",
+    "storage_bucket": "technofarm-823b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878940273634:android:51594177fd23d279",
+        "android_client_info": {
+          "package_name": "com.ngeartstudio.technofarm.technofarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878940273634-sqi7e6e2mjbjt8bka6ef3jis140f2r53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ngeartstudio.technofarm.technofarm",
+            "certificate_hash": "9bdd5ae850c2b65a09124048f2cb4a59b7a6c003"
+          }
+        },
+        {
+          "client_id": "878940273634-umuljavc91ut4eefphh7vs0elfvr8n1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqmM7d8fUrvxgwp4IdsCKRfY7LmtYFEp4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878940273634-umuljavc91ut4eefphh7vs0elfvr8n1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878940273634:android:4fdb819810417d75",
+        "android_client_info": {
+          "package_name": "com.ngeartstudio.technofarmv1.technofarmv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878940273634-govbqvg9npqafkst5jv9utno5f8tphs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ngeartstudio.technofarmv1.technofarmv1",
+            "certificate_hash": "9bdd5ae850c2b65a09124048f2cb4a59b7a6c003"
+          }
+        },
+        {
+          "client_id": "878940273634-umuljavc91ut4eefphh7vs0elfvr8n1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqmM7d8fUrvxgwp4IdsCKRfY7LmtYFEp4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878940273634-umuljavc91ut4eefphh7vs0elfvr8n1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
